@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccc5d0f3-ab1b-4e72-bd52-2e39a9e16609" name="Changes" comment="обновил pom.xml">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="818f6ca1-5c2e-42d7-abe6-33cc4bc22a1a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/CatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/FelineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/LionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/ParameterizedTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Feline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Feline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Lion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Predator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Predator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,29 +20,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;shinshorshin&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "shinshorshin"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/shinshorshin/qa_java.git&quot;,
-    &quot;accountId&quot;: &quot;529022ee-a44d-4999-89bb-0eee16a9e72d&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/shinshorshin/qa_java.git",
+    "accountId": "529022ee-a44d-4999-89bb-0eee16a9e72d"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="3AvFLlOG4YCi9XkeuMI6kd5nfA6" />
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3AvOEFt9H7zJbXdh66MZjnF8ZMF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,11 +47,11 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "Sprint__5",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/shors/qa_java"
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="RunManager">
@@ -68,41 +71,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ccc5d0f3-ab1b-4e72-bd52-2e39a9e16609" name="Changes" comment="" />
-      <created>1773465083813</created>
+      <changelist id="818f6ca1-5c2e-42d7-abe6-33cc4bc22a1a" name="Changes" comment="" />
+      <created>1773469466527</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1773465083813</updated>
+      <updated>1773469466527</updated>
     </task>
-    <task id="LOCAL-00001" summary="обновил pom.xml">
-      <option name="closed" value="true" />
-      <created>1773467924000</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1773467924001</updated>
-    </task>
-    <task id="LOCAL-00002" summary="обновил pom.xml">
-      <option name="closed" value="true" />
-      <created>1773467964374</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1773467964374</updated>
-    </task>
-    <task id="LOCAL-00003" summary="обновил pom.xml">
-      <option name="closed" value="true" />
-      <created>1773467998005</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1773467998005</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="обновил pom.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="обновил pom.xml" />
   </component>
 </project>
